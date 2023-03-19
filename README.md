@@ -4,7 +4,7 @@ Valfo, your personal Valorant companion. 🤖
 
 
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/tP39q39.png" alt="ValfoScreenshot"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/zTgv1TZ.png" alt="ValfoScreenshot"></a>
 </p>
 
 ## Technologies Used 💻
