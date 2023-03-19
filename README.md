@@ -1,14 +1,12 @@
+<h2 align="center">
+Valfo, your personal Valorant companion. 🤖
+</h2> 
+
+
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/sb3XlTT.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Valfo, your personal Valorant companion. 🤖
-</h3>
-
-<h2 align="center">
-I'm currently a Computer Science Student at the University of Houston!
-</h2> 
 
 - 👋 Hi, I’m @andrewdieu
 - 👀 I’m interested in creating and discovering new projects
