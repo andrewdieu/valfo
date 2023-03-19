@@ -13,10 +13,10 @@ Valfo, your personal Valorant companion. 🤖
 ## Information ℹ️
 Valfo is a chatbot for Valorant!
 
-Valfo can answer questions such as: <br>
-How many agents are there? → Will respond with how many agents are in the game 
-Jett → Will respond with Jett's abilities
-Duelist → Will list all the current duelists in the game
-And many more!
+Valfo can answer questions such as: <br> <br>
+How many agents are there? → Will respond with how many agents are in the game <br>
+Jett → Will respond with Jett's abilities <br> 
+Duelist → Will list all the current duelists in the game <br>
+And many more! <br> <br>
 
 This is done through MySQL, which holds an input and output table holding the commands, and the outputs (responses).
