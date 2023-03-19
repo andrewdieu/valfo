@@ -12,7 +12,7 @@ Valfo, your personal Valorant companion. 🤖
 
 ## Information ℹ️
 New to Valorant? <br>
-~ Ask Valfo! ~ <br>
+~ Ask Valfo! ~ <br> <br>
 Valfo is your personal Valorant Chatbot, skewed for beginners. Valfo can provide information such as all 18 agents' abilities, the different maps, or what role each agent plays! <br> <br>
 **Example questions: <br>**
 • How many agents are there? → Will respond with how many agents are in the game <br>
