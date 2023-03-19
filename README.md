@@ -18,7 +18,7 @@ Jett → Will respond with Jett's abilities <br>
 Duelist → Will list all the current duelists in the game <br>
 And many more! <br> <br>
 
-**How?** <br>
+## How? 🤔
 <ins>PHP</ins> → Connects our front end (what you are seeing) with our backend! (our MySQL database) <br>
-<ins>*CSS*</ins> → Makes our website *beautiful*. <br>
+<ins>*CSS*</ins> → Makes our website *beautiful ✨*. <br>
 <ins>*MySQL*</ins> → Holds an input and output table holding the commands, and the outputs (responses). <br>
