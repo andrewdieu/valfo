@@ -19,8 +19,8 @@ Valfo is a chatbot for **Valorant!** <br> <br>
 And many more!
 
 ## How? 🤔
-<ins>PHP</ins> → Connects our front end (what you are seeing) with our backend! (our MySQL database) <br>
 <ins>*CSS*</ins> → Makes our website *beautiful ✨*. <br>
+<ins>PHP</ins> → Connects our front end (what you are seeing) with our backend! (our MySQL database) <br>
 <ins>*MySQL*</ins> → Holds an input and output table holding the commands, and the outputs (responses). <br> <br> <br>
 
 *Created by Andrew Dieu, for ShellHacks 2022*
