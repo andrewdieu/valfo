@@ -11,7 +11,7 @@ Valfo, your personal Valorant companion. 🤖
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Information ℹ️
-New to Valorant? <br>
+**New to Valorant?** <br>
 ~ Ask Valfo! ~ <br> <br>
 Valfo is your personal Valorant Chatbot, skewed for beginners. Valfo can provide information such as all 18 agents' abilities, the different maps, or what role each agent plays! <br> <br>
 **Example questions: <br>**
