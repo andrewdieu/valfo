@@ -10,7 +10,7 @@ Valfo, your personal Valorant companion. 🤖
 ## Technologies Used 💻
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Connect 🔗
+## Information [ℹ️]
 <a href="https://www.linkedin.com/in/andrewdieu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andrew Dieu | LinkedIn" width="21px"/></a>
  
 <!---
