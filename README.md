@@ -16,7 +16,7 @@ Valfo is a chatbot for **Valorant!** <br> <br>
 How many agents are there? → Will respond with how many agents are in the game <br>
 Jett → Will respond with Jett's abilities <br> 
 Duelist → Will list all the current duelists in the game <br>
-And many more! <br> <br>
+And many more!
 
 ## How? 🤔
 <ins>PHP</ins> → Connects our front end (what you are seeing) with our backend! (our MySQL database) <br>
